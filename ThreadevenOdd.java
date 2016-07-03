@@ -1,5 +1,3 @@
-package com.evenOdd;
-
 import java.util.concurrent.Semaphore;
 
 public class ThreadevenOdd implements Runnable {
